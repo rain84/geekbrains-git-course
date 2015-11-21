@@ -7,3 +7,6 @@ print('--else--');
 print('--matters--');
 
 :)
+
+
+print('Hello, my friend');
