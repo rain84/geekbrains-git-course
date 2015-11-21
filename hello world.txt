@@ -2,11 +2,6 @@ print('Hello, World');
 print('Hello, everybody');
 
 
-print('--nothing--');
-print('--else--');
-print('--matters--');
-
-:)
-
-
 print('Hello, my friend');
+print('Hello, all');
+print('How are U?');
