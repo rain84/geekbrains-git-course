@@ -1,2 +1,8 @@
 print('Hello, World');
 print('Hello, everybody');
+
+
+print('--nothing--');
+print('Hello, everybody');
+print('Hello, everybody');
+
